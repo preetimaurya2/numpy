@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preetimaurya2
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning DATA ANALYST
+- 🌱 I’m certified DATA SCIENTIST
 - 💞️ I’m looking to collaborate on DATA ANALYST AND DATA VISUALIZATION
 - 📫 How to reach me EMAIL_ID= preetimaurya914@gmail.com
                      LINKED IN = linkedin.com/in/preeti-maurya-990b25223/
